@@ -61,8 +61,7 @@ To analyze a suspected phishing email and identify:
 | `phish-sample.eml`            | Raw phishing email in EML format       |
 | `EM1.png to EM4.png`          | Screenshots of email header analysis   |
 | `virustotal-url-scan-1.png`  | VirusTotal phishing URL scan result    |
-| `mxtoolbox-header-analysis.png` | MXToolbox analysis of email headers |
-
+| `mxtoolbox-header-analysis.png`| MXToolbox analysis of email headers |
 
 
 # Things learned
