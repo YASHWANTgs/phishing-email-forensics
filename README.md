@@ -65,7 +65,7 @@ To analyze a suspected phishing email and identify:
 
 
 
-# Key Learnings
+# Things learned
 
 - Email headers reveal spoofed sender identity and fake reply domains.
 - Phishing URLs may bypass some AV engines but still appear suspicious in VirusTotal.
