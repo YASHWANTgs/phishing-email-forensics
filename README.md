@@ -73,7 +73,5 @@ To analyze a suspected phishing email and identify:
 - Tools like MXToolbox and VirusTotal are essential in SOC triage processes.
 - MITRE mapping provides clear context to attackers' tactics and detection planning.
 
-# Conclusion
 
-This project simulates a real-world phishing triage workflow using open tools. It's suitable for SOC analysts, blue teamers, or cybersecurity students aiming to enhance their forensic skills.
 
